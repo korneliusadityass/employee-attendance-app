@@ -1,0 +1,1 @@
+enum KaryawanDuration{monthly,yearly}

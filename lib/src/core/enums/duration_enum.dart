@@ -1,0 +1,1 @@
+enum HRDuration{monthly,yearly}
